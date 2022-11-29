@@ -1,0 +1,67 @@
+h1
+
+{
+  /*Styling header*/
+  color: mediumpurple;
+  font-weight: 150;
+  text-transform: uppercase;
+  border-top: 5px solid green;
+  font-size: 50px;
+  font-family: fantasy;
+  text-shadow: 5px 5px black;
+}
+
+body 
+
+{
+  background-color: #F69680;
+  color: black;
+  font-family: monospace;
+  font-weight: 200;
+}
+
+
+img
+{
+  height: 300px;
+  border-radius: 40%;
+
+}
+
+.contentdivision
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+button
+{
+  margin: 30px auto 0;
+  padding: 20px 25px;
+  background-color: #F69680;
+  color: #2E1263;
+  font-size: 14px;
+  text-align: center;
+  border: 1px solid #2E1263;
+  text-transform: uppercase;
+  text-decoration: none;
+  outline: none;
+  letter-spacing: 4px;
+}
+
+button:hover
+{
+  background-color: #2E1263;
+  color: #F69680;
+  transition: 0.5s;
+  text-decoration: underline;
+}
+
+p
+{
+  font-size: 22px;
+  font-weight: bold;
+}

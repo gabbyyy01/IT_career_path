@@ -1,0 +1,169 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+	<title> About </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel = "icon" href = "number 7 title logo.png" type = "image/x-icon">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>	
+
+<body>
+	<header>
+<!-- Navbar -->
+		<div id="career">
+			<div class="navbar">
+				<div class="logo">
+					<img src="uptech.png">
+				</div>
+    			<a href="About.html">About</a>
+ 			<div class="dropdown">
+    			<button class="dropbtn">Tech Careers 
+      				<i class="fa fa-caret-down"></i>
+    			</button>
+			    <div class="dropdown-content">
+			      <a href="Computer Support.html">Computer Support</a>
+			      <a href="Cybersecurity.html">Cybersecurity</a>
+			      <a href="Networks and Systems.html">Networks and Systems</a>
+			      <a href="Software Development.html">Software Development</a>
+			      <a href="Web Development.html">Web Development</a>
+			      <a href="Data.html">Data</a>
+			      <a href="Cloud Computing.html">Cloud Computing</a>
+			    </div>
+		  </div> 
+			  <a href="Homepage.html">Home</a>
+		  </div>
+
+<!-- Page content -->
+			<div class="pic">
+				<p>About</p>
+						<h1> ABOUT US AND THE WEBSITE </h1>
+					</div>
+				<div class="def">
+					<p>This is a static website with an informative content about the 7 Popular Career Paths in the field of Information Technology. This website aims to provide information on every career path indicated. The developers and designers hope that they could help with the use of this website as a guide for anyone invested in embarking IT and for those who don't have any knowledge about the vast opportunities in this profession.</p>
+					<br>
+					<p><b>Developers and Designers</b></p>
+				</div>
+		</div>
+<br>
+<br>
+<br>
+
+<div class="profile mar4">
+	<a href="Rhea.jpg"><img src="Rhea.jpg" style="object-fit: contain;" width="327" height="300">
+	<div class="pad">
+		<h4><i></i></h4>
+	<i style="margin-left: 70px;"><strong>Rhea L. Dominguez</strong></i>
+	<br><strong style="margin-left: 110px;">Designer</strong></br>
+	<br>
+	<a href="https://www.facebook.com/rheadominguez02" onclick="return confirm('Are you sure you want to visit Rhea?')"><img src="fb.png" height="90" width="90" style="position:absolute" class="fbUno"></a>
+	<a href="https://www.facebook.com/rheadominguez02" onclick="return confirm('Are you sure you want to visit Rhea?')"><img src="fb2.png" height="90" width="90" class="fbUno"></a>
+	<br>
+	<br>
+	<br>
+</div>		
+	</div>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
+<div class="profile mar3" style="float:left">
+  <a href="Gabo.jpg"><img src="Gabo.jpg" style="width:100%" height="300">
+  <div class="pad">
+    <h4><i></i></h4>
+	<i><strong>Gabriel Angelo V. Oliver</strong></i>
+	<br><strong>Developer</strong></br>
+	<br>
+	<a href="https://www.facebook.com/gabbyyy1001" onclick="return confirm('Are you sure you want to visit Gabriel?')"><img src="fb.png" height="90" width="90" style="position:absolute" class="fb"></a>
+	<a href="https://www.facebook.com/gabbyyy1001" onclick="return confirm('Are you sure you want to visit Gabriel?')"><img src="fb2.png" height="90" width="90"></a>
+	<br>
+	<br>
+	<br>
+  </div>
+</div>
+
+<div class="profile mar" style="float:left">
+  <a href="Mak.jpg"><img src="Mak.jpg" style="width:100%" height="300">
+  <div class="pad">
+    <h4><i></i></h4>
+	<i><strong>Mark Joseph N. Binarao</strong></i>
+	<br><strong>Designer</strong></br>
+	<br>
+	<a href="https://www.facebook.com/markjoseph.binarao" onclick="return confirm('Are you sure you want to visit Mark?')"><img src="fb.png" height="90" width="90" style="position:absolute" class="fb"></a>
+	<a href="https://www.facebook.com/markjoseph.binarao" onclick="return confirm('Are you sure you want to visit Mark?')"><img src="fb2.png" height="90" width="90"></a>
+	<br>
+	<br>
+	<br>
+  </div>
+</div>
+
+<div class="profile mar" style="float:left">
+  <a href="Kide.jpg"><img src="Kide.jpg" style="width:100%" height="300">
+  <div class="pad">
+    <h4><i></i></h4>
+	<i><strong>John Kenneth D. Durian</strong></i>
+	<br><strong>Developer</strong></br>
+	<br>
+	<a href="https://www.facebook.com/xkeydiiiix/" onclick="return confirm('Are you sure you want to visit John Kenneth?')"><img src="fb.png" height="90" width="90" style="position:absolute" class="fb"></a>
+	<a href="https://www.facebook.com/xkeydiiiix/" onclick="return confirm('Are you sure you want to visit John Kenneth?')"><img src="fb2.png" height="90" width="90"></a>
+	<br>
+	<br>
+	<br>
+  </div>
+</div>
+</center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+	</header>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
+  <i class="fa fa-facebook-official w3-hover-opacity" onclick="return confirm('Oops! Sorry, we have no Facebook account yet.')"></i>
+  <i class="fa fa-instagram w3-hover-opacity" onclick="return confirm('Oops! Sorry, we have no Instagram account yet.')"></i>
+  <i class="fa fa-twitter w3-hover-opacity" onclick="return confirm('Oops! Sorry, we have no Twitter account yet.')"></i>
+  <i class="fa fa-linkedin w3-hover-opacity" onclick="return confirm('Oops! Sorry, we have no LinkedIn account yet.')"></i>
+  <br>
+  <br>
+  <p class="w3-medium">© 2022 Uptech. All Rights Reserved.</p>
+</footer>
+
+</body> 
+</html>

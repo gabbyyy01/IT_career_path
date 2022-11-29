@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	<title>IT Career Catalogue</title>
+
+
+	<link rel="stylesheet" type="text/css" href="Crash Course Trial Designs.css">
+
+</head>
+
+
+<body>
+	<div class="contentdivision">
+
+		<h1>These are the Top 7 Careers in IT</h1>
+
+<img src="C:/Users/keyds/Desktop/Sublime Text Projects/Pics/Computer Support.jpg">
+
+<button>Next Career Path</button>
+
+<p>These are the current trending and in demand professions in the field of Information Technology</p>
+
+	</div>
+
+	<script type="text/javascript" src="Interactions.js"></script>
+</body>
+</html>
